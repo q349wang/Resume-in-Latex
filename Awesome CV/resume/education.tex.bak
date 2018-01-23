@@ -1,0 +1,26 @@
+\cvsection{Education}
+\begin{cventries}
+  	\cventry
+    {Candidate for Bachelor of Software Engineering}
+    {University of Waterloo}
+    {Waterloo, Canada}
+    {Sept. 2017 - PRESENT}
+    {
+    }
+    
+    \cventry
+    {Ontario Secondary School Diploma}
+    {A. N. Myer Secondary School}
+    {Niagara Falls, Canada}
+    {2017}
+    {
+    \begin{cvitems}
+\item {Participated in an online research co-op in conjunction with Blockchain Canada, and the Foundation for Student Science and Technology (FSST) to conduct research on the potential benefits of blockchain systems in social security distribution.}
+
+\item {Expaneded knowledge of Java programming language through online computer science course, and developed a vertical scrolling video game which resulted in a final mark of 97\%}
+    
+    \end{cvitems}
+    
+    }
+    
+\end{cventries}
